@@ -1,14 +1,17 @@
-# MX Linux Documentation
+# MX Linux for Gen-Z 🚀
 
-Repositori ini berisi kumpulan dokumentasi, tutorial, dan tips seputar MX Linux dalam bahasa Indonesia. Cocok untuk pengguna baru maupun pengguna yang ingin mendalami MX Linux lebih lanjut.
+Welcome to the ultimate, super chill MX Linux documentation, khusus buat kamu Gen-Z yang pengen setup MX Linux di VirtualBox tanpa ribet.  
+Temukan step-by-step, tips kece, solusi masalah, dan rekomendasi software biar hidup lo makin efisien.
 
-## Daftar Isi
-- [Instalasi MX Linux](docs/instalasi.md)
-- [Konfigurasi Awal](docs/konfigurasi.md)
-- [Perintah Terminal Dasar](docs/perintah-terminal.md)
-- [Manajemen Software](docs/software.md)
-- [Troubleshooting](docs/troubleshooting.md)
-- [Tips & Trik](docs/tips.md)
+## Start Here
+- [✨ Instalasi VirtualBox + MX Linux](docs/instalasi.md)
+- [🎨 Konfigurasi Awal (Biar makin Kece)](docs/konfigurasi.md)
+- [⚡ Perintah Terminal Gampang](docs/perintah-terminal.md)
+- [🧩 Daftar Software Keren](software/)
+- [🔥 Tips & Trik](tips/)
+- [🚨 Troubleshooting & Solusi Galat](troubleshooting.md)
 
-## Kontribusi
-Silakan kontribusi dengan pull request atau membuat issue untuk saran/topik baru.
+---
+
+## Mau Ikut Kontribusi?
+Feel free buat pull request atau kasih saran via issue. Let’s make MX Linux makin asik bareng-bareng! 🚀
